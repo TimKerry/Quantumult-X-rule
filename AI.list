@@ -1,5 +1,5 @@
 # ChatGPT
-HOST-KEYWORD, chatgpt-async-webps-prod
+HOST-KEYWORD, chatgpt
 HOST-SUFFIX, webpubsub.azure.com
 HOST-KEYWORD, openaicom-api
 HOST-SUFFIX, azurefd.net
